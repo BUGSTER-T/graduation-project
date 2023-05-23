@@ -1,0 +1,4 @@
+C:\Users\TSH\Desktop\GSLMATH3\x64\Debug\GSLMATH3.vcxproj.CopyComplete
+C:\Users\TSH\Desktop\GSLMATH3\x64\Debug\GSLMATH3.exe
+C:\Users\TSH\Desktop\GSLMATH3\x64\Debug\gsld.dll
+C:\Users\TSH\Desktop\GSLMATH3\x64\Debug\gslcblasd.dll

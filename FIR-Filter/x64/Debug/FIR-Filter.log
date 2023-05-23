@@ -1,0 +1,5 @@
+﻿  源.cpp
+C:\Users\TSH\Desktop\FIR-Filter\源.cpp(7,193): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\TSH\Desktop\FIR-Filter\源.cpp(8,19): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\TSH\Desktop\FIR-Filter\源.cpp(19,19): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  FIR-Filter.vcxproj -> C:\Users\TSH\Desktop\FIR-Filter\x64\Debug\FIR-Filter.exe

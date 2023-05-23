@@ -1,0 +1,4 @@
+C:\Users\TSH\Desktop\GSL-numerical integral\x64\Debug\GSL-numerical integral.vcxproj.CopyComplete
+C:\Users\TSH\Desktop\GSL-numerical integral\x64\Debug\GSL-numerical integral.exe
+C:\Users\TSH\Desktop\GSL-numerical integral\x64\Debug\gsld.dll
+C:\Users\TSH\Desktop\GSL-numerical integral\x64\Debug\gslcblasd.dll
